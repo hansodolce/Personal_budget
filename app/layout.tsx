@@ -8,8 +8,8 @@ import { Toaster } from "@/components/ui/sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Budget Tracker",
-  description: "CodeWithKliton",
+  title: "Finance Personnelles",
+  description: "Gerer vos finances",
 };
 
 export default function RootLayout({
